@@ -8,15 +8,26 @@
         <outputRelativeToContentRoot value="true" />
         <module name="springboot-mybatis-2" />
         <module name="springboot-mybatis-1" />
-        <module name="springboot-redis" />
-        <module name="springboot-first" />
+        <module name="springboot-dubbo-mybatis-redis-jsp-provider" />
+        <module name="springboot-dubbo-mybatis-redis-jsp-consumer" />
+        <module name="springboot-dubbo-mybatis-redis-jsp-interface" />
         <module name="springboot-jsp" />
+        <module name="springboot-dubbo-provider" />
         <module name="springboot-restful" />
         <module name="springboot2" />
+        <module name="springboot-redis" />
+        <module name="springboot-first" />
+        <module name="springboot-dubbo-consumer" />
+        <module name="springboot-dubbo-interface" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="demo-jsp" target="1.8" />
+      <module name="springboot-dubbo-consumer" target="1.8" />
+      <module name="springboot-dubbo-interface" target="1.5" />
+      <module name="springboot-dubbo-mybatis-redis-jsp-consumer" target="1.8" />
+      <module name="springboot-dubbo-mybatis-redis-jsp-interface" target="8" />
+      <module name="springboot-dubbo-mybatis-redis-jsp-provider" target="1.8" />
+      <module name="springboot-dubbo-provider" target="1.8" />
       <module name="springboot-first" target="1.8" />
       <module name="springboot-jsp" target="1.8" />
       <module name="springboot-mybatis-1" target="1.8" />
@@ -28,7 +39,11 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="demo-jsp" options="-parameters" />
+      <module name="springboot-dubbo-consumer" options="-parameters" />
+      <module name="springboot-dubbo-interface" options="" />
+      <module name="springboot-dubbo-mybatis-redis-jsp-consumer" options="-parameters" />
+      <module name="springboot-dubbo-mybatis-redis-jsp-provider" options="-parameters" />
+      <module name="springboot-dubbo-provider" options="-parameters" />
       <module name="springboot-first" options="-parameters" />
       <module name="springboot-jsp" options="-parameters" />
       <module name="springboot-mybatis-1" options="-parameters" />

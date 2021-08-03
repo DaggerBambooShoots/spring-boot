@@ -3,6 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-boot.iml" filepath="$PROJECT_DIR$/.idea/spring-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-dubbo-consumer/springboot-dubbo-consumer.iml" filepath="$PROJECT_DIR$/springboot-dubbo-consumer/springboot-dubbo-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-dubbo-interface/springboot-dubbo-interface.iml" filepath="$PROJECT_DIR$/springboot-dubbo-interface/springboot-dubbo-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-dubbo-mybatis-redis-jsp-consumer/springboot-dubbo-mybatis-redis-jsp-consumer.iml" filepath="$PROJECT_DIR$/springboot-dubbo-mybatis-redis-jsp-consumer/springboot-dubbo-mybatis-redis-jsp-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-dubbo-mybatis-redis-jsp-interface/springboot-dubbo-mybatis-redis-jsp-interface.iml" filepath="$PROJECT_DIR$/springboot-dubbo-mybatis-redis-jsp-interface/springboot-dubbo-mybatis-redis-jsp-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-dubbo-mybatis-redis-jsp-provider/springboot-dubbo-mybatis-redis-jsp-provider.iml" filepath="$PROJECT_DIR$/springboot-dubbo-mybatis-redis-jsp-provider/springboot-dubbo-mybatis-redis-jsp-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-dubbo-provider/springboot-dubbo-provider.iml" filepath="$PROJECT_DIR$/springboot-dubbo-provider/springboot-dubbo-provider.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-first/springboot-first.iml" filepath="$PROJECT_DIR$/springboot-first/springboot-first.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-jsp/springboot-jsp.iml" filepath="$PROJECT_DIR$/springboot-jsp/springboot-jsp.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-mybatis-1/springboot-mybatis-1.iml" filepath="$PROJECT_DIR$/springboot-mybatis-1/springboot-mybatis-1.iml" />

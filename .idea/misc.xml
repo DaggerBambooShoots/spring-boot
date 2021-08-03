@@ -11,8 +11,16 @@
         <option value="$PROJECT_DIR$/springboot-mybatis-2/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-restful/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-dubbo-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-dubbo-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-dubbo-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-bootspringboot-dubbo-mybatis-redis-jsp-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-dubbo-mybatis-redis-jsp-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-dubbo-mybatis-redis-jsp-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-dubbo-mybatis-redis-jsp-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-dubbo-mybatis-redis-jsp-consumer/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
 </project>
